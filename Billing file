@@ -1,3 +1,5 @@
 read item1, item 2, item 3
 total price =item1+item2+item3
 if total price is greater than 200 give 5% discount else 1%
+
+every purchase add 50 pints to the order
